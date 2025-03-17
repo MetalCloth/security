@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: Network-Security
+Version: 0.1
+Author: Puneet Rawat
+Author-email: rawatpuneet927@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
